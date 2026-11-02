@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+dist/
+build.ps1
+
+# Editor settings
+.vs/
+.vscode/
+*.user
+
+# Local only: release notes, screenshots and the upload copy
+Better Cursors Files/
+
+# Mod page icon
+BetterCursorsIcon.png
+tools/make_icon.py

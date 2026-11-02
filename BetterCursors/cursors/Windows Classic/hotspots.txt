@@ -1,0 +1,9 @@
+# Where each cursor clicks, as a fraction of the image width and height from the top left.
+idle = 0.0600, 0.0500
+set_lock = 0.0552, 0.0460
+set_pin = 0.0552, 0.0460
+hand = 0.4150, 0.0600
+stretch_horizontal = 0.5000, 0.5000
+stretch_vertical = 0.5000, 0.5000
+stretch_corner = 0.5000, 0.5000
+stretch_corner_2 = 0.5000, 0.5000
