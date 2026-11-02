@@ -4,7 +4,7 @@ Swap the game's cursor for a sharp one, pick its size and colour.
 
 The game's cursor is small and Windows stretches it, so a large Windows pointer makes it blurry. Better Cursors draws the cursor at the exact size you pick, so it stays sharp.
 
-![Better Cursors](imageExamples/BetterCursors.webp)
+![Better Cursors](imageExamples/Cursor.webp)
 
 ## Install
 SPT 4.1.x. Client only, nothing goes on the server. Extract the zip into your SPT folder. It puts the plugin in `BepInEx\plugins\BetterCursors`.
